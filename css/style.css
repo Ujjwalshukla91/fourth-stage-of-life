@@ -1,0 +1,855 @@
+body {
+    font-family: Poppins, sans-serif;
+        overflow-x: hidden;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+header.header-1 {
+    background: #333;
+}
+a.bar {
+    display: none;
+}
+img.img-responsive-1 {
+    width: 283px;
+    height: 19vh;
+    margin-left: -15px;
+}
+.container-fluid {
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.col-9 {
+    border: 1px solid #009688;
+    background-color: darkslategray;
+}
+
+li {
+    display: inline-block;
+    padding: 5px 19px;
+    margin-top: 10px;
+}
+a {
+    color: #fff !important;
+    font-size: 16px;
+    font-family: serif;
+    text-transform: capitalize;
+}
+a:hover {
+    text-decoration: none !important;
+}
+section.categories {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 0px;
+    background-color: gainsboro;
+}
+
+span.cate-names {
+    font-size: 36px;
+    opacity: 0.6;
+    text-transform: capitalize;
+}
+
+li.home {
+    padding: 0;
+    margin: 0;
+}
+span.names {
+    font-size: 36px;
+    opacity: 0.6;
+    text-transform: capitalize;
+}
+.row.bg-colo {
+    background: #f5f5f5;
+}
+section.Education {
+    margin-top: 30px;
+}
+ul.row.navi {
+    overflow-x: auto;
+    height: 207px;
+    width: 200%;
+}
+ul.row.navi li {
+    float: left;
+    width: 272px;
+    padding: 0;
+    margin-right: 25px;
+    overflow-x: hidden;
+}
+
+a.btn {
+    float: right;
+    margin-top: 0px;
+    padding: 6px 10px;
+    font-size: 13px;
+    color: #e73a34 !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #d8d8d8;
+    border-radius: 3px;
+    font-weight: 600;
+    line-height: 17px;
+    transition: 0.3s ease-in;
+    margin-right: 20px;
+}
+img.img-responsive {
+    width: 100%;
+}
+img.img-responsive:hover {
+    transform: scalex(1.09);
+    transition: 0.3s ease-in;
+}
+a.coach {
+    float: left;
+    width: 100%;
+}
+.bg-white {
+    background-color: #fff !important;
+    height: 100%;
+}
+h3.inter {
+    margin-left: 10px;
+    font-size: 14px !important;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black !important;
+    margin-top: 12px !important;
+}
+span.exam {
+    margin-left: 10px;
+    font-size: 12px;
+}
+span.name {
+    font-size: 36px;
+    opacity: 0.6;
+    text-transform: capitalize;
+}
+span.named {
+    font-size: 36px;
+    opacity: 0.6;
+    text-transform: capitalize;
+}
+span.nameds {
+    font-size: 36px;
+    opacity: 0.6;
+    text-transform: capitalize;
+}
+span.namedsit {
+    font-size: 36px;
+    opacity: 0.6;
+    text-transform: capitalize;
+}
+span.namedsite {
+    font-size: 36px;
+    opacity: 0.6;
+    text-transform: capitalize;
+}
+.col-12.all-service {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+a.button {
+    color: #e73a34 !important;
+    border: 1px solid #d8d8d8;
+    border-radius: 3px;
+    font-weight: 600;
+    line-height: 17px;
+    padding: 15px 34px;
+    background: #fff;
+    font-size: 15px;
+    font-family: Poppins, sans-serif;
+}
+section.wedding-home {
+    background-color: #d5d8dc;
+    background-size: cover;
+}
+.shaddi {
+    width: 50%;
+    height: 350px;
+}
+.shaddi-1 {
+    position: absolute;
+    left: 12px;
+}
+
+.shaddi .shaddi-1:before {
+    left: 0px;
+    content: "";
+    background: url(../images/wedding-services-hp.jpg) no-repeat;
+    border-radius: 3px;
+    background-size: cover;
+    height: 330px;
+    float: left;
+    width: 648px;
+    top: 25px;
+}
+
+span.wedding {
+    color: #fffc00;
+    position: absolute;
+    top: 63px;
+    left: 60px;
+}
+p.lot {
+    position: absolute;
+    top: 159px;
+    max-width: 524px;
+    left: 58px;
+    color: #fff;
+}
+h3.need {
+    color: #fff;
+    top: 93px;
+    text-transform: capitalize;
+    position: absolute;
+    /* top: 92px; */
+    left: 59px;
+}
+
+
+a.btn-1 {
+    position: absolute;
+    top: 250px;
+    /* border: 1px solid; */
+    padding: 8px 20px;
+    background: #fff;
+    color: #df3635 !important;
+    right: 438px;
+}
+
+.got {
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.guide {
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    opacity: 0.6;
+    font-weight: 100;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+a.btn-3 {
+    right: 22px;
+    top: 45px;
+    padding: 13px 25px;
+    font-size: 13px;
+    color: #f44336 !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #d8d8d8;
+    border-radius: 3px;
+    font-weight: 600;
+    line-height: 17px;
+    box-shadow: 1px 1px 3px #888888;
+}
+section.block {
+    width: 100%;
+    float: left;
+    
+}
+
+a.home {
+    color: red !important;
+    padding: 0 0px;
+}
+
+img.stock {
+    width: 301px;
+    float: left;
+    height: 222px;
+}
+li.imgresponsive {
+    display: inline-block;
+    float: left;
+    width: 234px;
+    margin-right: 70px;
+    margin-left: 15px;
+}
+a.nam {
+    color: #666 !important;
+    position: relative;
+    left: 0px;
+    font-family: Poppins, sans-serif;
+}
+i.fa.fa-user {
+    margin-right: 6px;
+}
+a.key {
+    color: #6e6e6e !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.read {
+    position: relative;
+    top: 180px;
+    left: 45px;
+}
+a.btn-4 {
+    color: #e53935 !important;
+    border: 1px solid gainsboro;
+    padding: 13px 101px;
+    float: left;
+
+    margin-bottom: 30px;
+}
+a.btn-4:hover {
+    color: #e73a34;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15) !important;
+}
+section.review {
+    width: 100%;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 24px;
+}
+
+.man {
+    text-align: center;
+    margin-top: 0px;
+    height: 388px;
+    padding-left: 4px;
+    border: 1px solid gainsboro;
+    padding-top: 21px;
+    margin-bottom: 30px;
+}
+.fa-user-o:before {
+    content: "\f2c0";
+    color: #989090;
+    font-size: 26px;
+}
+h4.guest {
+    text-transform: capitalize;
+    margin-top: 14px;
+    font-weight: 600;
+    font-size: 16px;
+}
+span.reviewed {
+    font-size: 13px;
+    text-transform: capitalize;
+}
+address {
+    margin-bottom: 4px !important;
+}
+strong {
+    font-size: 14px;
+    color: #e53935;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+span.patna {
+    opacity: 0.7;
+    text-transform: capitalize;
+}
+hr {
+    width: 105px;
+    margin: 20px auto;
+    border-top: 1px solid #ff8686 !important;
+}
+h3.interior {
+    font-size: 16px;
+    font-weight: bold;
+}
+p.bee {
+    color: #333;
+    margin-top: 22px;
+}
+a.reads {
+    color: #e53935 !important;
+    position: relative;
+
+    font-size: 20px;
+    font-weight: 600;
+    font-family: unset;
+}
+.man:hover {
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15) !important;
+}
+footer.social-icon {
+    width: 100%;
+    float: left;
+    background: #d0d0d0;
+    height: 100px;
+}
+.social {
+    margin-top: 30px;
+    float: left;
+}
+.icons {
+    float: right;
+    margin-left: 21px;
+}
+.fa-twitter:before {
+   background: #03A9F4;
+    content: "\f09a";
+    font-size: 15px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 15px 16px;
+    margin-right: 0px;
+}
+.fa-facebook:before {
+ background: #03A9F4;
+    content: "\f09a";
+    font-size: 15px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 15px 16px;
+    margin-right: 0px;
+}
+.fa-pinterest-p:before {
+   background: #03A9F4;
+    content: "\f09a";
+    font-size: 15px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 15px 16px;
+    margin-right: 0px;
+}
+.fa-youtube-play:before {
+    content: "\f16a";
+    background: #03A9F4;
+    content: "\f09a";
+    font-size: 15px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 15px 14px;
+    margin-right: 0px;
+}
+.fa-linkedin-square:before {
+   background: #03A9F4;
+    content: "\f09a";
+    font-size: 15px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 15px 16px;
+    margin-right: 0px;
+}
+.fa-instagram:before {
+   background: #03A9F4;
+    content: "\f09a";
+    font-size: 15px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 15px 16px;
+    margin-right: 0px;
+}
+li.suggest {
+    border: 1px solid grey;
+}
+
+/*
+media Query
+*/
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    ...;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+    section.review {
+        width: 100%;
+        float: left;
+    }
+    section.block {
+        width: 100%;
+        float: left;
+        height: auto;
+        margin-bottom: 58px;
+    }
+    section.categories {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 0px;
+    background-color: gainsboro;
+    }
+   img.fourth {
+    width: 62%;
+    margin-left: 154px;
+}
+li.suggest {
+    border: 1px solid grey;
+}
+    section.wedding-home {
+        background-color: #d5d8dc;
+        background-size: cover;
+    }
+    header.header-1 {
+    background: #333;
+    }
+   a.bar {
+    float: right;
+    margin-top: 0px;
+    margin-right: 4px;
+   
+    }
+
+    a.btn-4:hover {
+    color: #e73a34;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15) !important;
+    }
+    .man:hover {
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15) !important;
+    }
+    a.reads {
+        color: #e53935 !important;
+        position: relative;
+        /* top: 106px; */
+        font-size: 20px;
+        font-weight: 600;
+        font-family: unset;
+    }
+   a.btn-1 {
+    position: absolute;
+    top: 265px;
+    padding: 8px 20px;
+    background: #fff;
+    color: #df3635 !important;
+    right: 414px;
+}
+    span.wedding {
+        color: #fffc00;
+        position: relative;
+        top: 98px;
+        left: 75px;
+        font-size: 20px;
+    }
+    span.wedding {
+    color: #fffc00;
+    position: absolute;
+    top: 57px;
+    left: 60px;
+}
+    .shaddi .shaddi-1:before {
+        content: "";
+        background: url(../images/wedding-services-hp.jpg) no-repeat;
+        border-radius: 3px;
+        background-size: cover;
+        height: 330px;
+        float: left;
+        width: 631px;
+        top: 25px;
+        right: 0px;
+    }
+    .shaddi .shaddi-2:before {
+        content: "";
+        background: url(../images/home-improvement-hp.jpg) no-repeat;
+        border-radius: 3px;
+        background-size: cover;
+        height: 330px;
+        float: left;
+        width: 630px;
+
+        top: 364px;
+        left: 47px;
+    }
+    h3.need {
+    color: #fff;
+    /* top: 129px; */
+    text-transform: capitalize;
+    position: absolute;
+    top: 92px;
+    left: 59px;
+    width: 100%;
+}
+ 
+
+    img.stock {
+        width: 100%;
+        float: left;
+        /* height: 222px; */
+    }
+
+    .imgresponsive {
+        width: 100%;
+        float: left;
+        display: block;
+    }
+    a.btn-2 {
+        position: relative;
+        top: 289px;
+        /* border: 1px solid; */
+        padding: 8px 20px;
+        background: #fff;
+        color: #df3635 !important;
+        right: 76px;
+    }
+    a.key {
+        color: #6e6e6e !important;
+        font-size: 23px;
+        font-weight: bold;
+    }
+    p.rapidly {
+    min-height: 126px;
+    color: #9a9a9a;
+    line-height: 18px;
+    text-align: justify;
+    max-width: 100%;
+    margin-top: 22px;
+}
+
+    p.lot {
+    position: absolute;
+    top: 172px;
+    min-width: 130px;
+    max-width: 455px;
+    left: 60px;
+}
+    .shaddi-1 {
+    position: absolute;
+    left: 12px;
+    top: 15px;
+}
+.fa-bars:before {
+    font-size: 34px;
+    content: "\f0c9";
+    margin-left: 24px;
+}
+    a.btn-4 {
+    color: #e53935 !important;
+    border: 1px solid gainsboro;
+    padding: 13px 138px;
+    float: left;
+    margin-bottom: 30px;
+}
+    .col-lg-6.col-md-12.com-sm-12 {
+        margin-bottom: 18px;
+        margin-left: 57px;
+    }
+    .col-lg-6.col-md-12.com-sm-12 {
+        margin-bottom: 18px;
+        margin-left: 57px;
+    }
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  
+  ul.navbar {
+    /* margin-top: 15px; */
+    /* display: none; */
+    width: 198px;
+    height: 100%;
+    background: #fff;
+    margin-left: -27px;
+}
+    a.bar {
+    float: right;
+    margin-top: 19px;
+    margin-right: 28px;
+    display: block;
+}
+    .logo {
+    /* margin: 0px; */
+    /* padding: 0; */
+    background: #333;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+  img.fourth {
+    width: 66%;
+    margin-left: 42px;
+    /* height: 88px; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.fa-bars:before {
+    font-size: 34px;
+    content: "\f0c9";
+    margin-left: 24px;
+}
+section.categories {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 0px;
+    background-color: gainsboro;
+}
+ul.navbar {
+    /* margin-top: 15px; */
+    display: none;
+}
+    ul.row.navi {
+    overflow-x: auto;
+    width: 100%;
+    overflow: visible;
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
+    ul.row.navi li {
+    float: left;
+    width: 100%;
+    padding: 0;
+    overflow-x: hidden;
+    margin-left: 22px;
+    }
+    span.exp {
+    margin-left: 16px;
+    }
+    span.names {
+    font-size: 22px;
+    opacity: 0.6;
+    text-transform: capitalize;
+    margin-left: 23px;
+    }
+    span.name {
+    font-size: 22px;
+    opacity: 0.6;
+    text-transform: capitalize;
+    margin-left: 24px;
+    }
+    span.named {
+    font-size: 22px;
+    opacity: 0.6;
+    text-transform: capitalize;
+    margin-left: 24px;
+    }
+    span.nameds {
+    font-size: 22px;
+    opacity: 0.6;
+    text-transform: capitalize;
+    margin-left: 23px;
+    }
+    span.namedsit {
+    font-size: 22px;
+    opacity: 0.6;
+    text-transform: capitalize;
+    margin-left: 30px;
+    }
+    span.namedsite {
+    font-size: 22px;
+    opacity: 0.6;
+    text-transform: capitalize;
+    margin-left: 24px;
+    }
+    .shaddi-1 {
+    position: absolute;
+    left: -57px;
+    }
+    .shaddi .shaddi-1:before {
+    content: '';
+    background: url(../images/wedding-services-hp.jpg) no-repeat;
+    border-radius: 3px;
+    background-size: cover;
+    height: 214px;
+    float: left;
+    width: 376px;
+    top: 25px;
+    right: 0;
+    }
+    h3.need {
+    color: #fff;
+    top: 92px;
+    font-size: 19px;
+    text-transform: capitalize;
+    left: 61px;
+}
+    p.lot {
+    position: absolute;
+    top: 205px;
+    min-width: 130px;
+    max-width: 455px;
+    left: 77px;
+    display: none;
+    }
+    .shaddi {
+    width: 100%;
+    height: 216px;
+    float: left;
+    }
+   a.btn-1 {
+    position: absolute;
+    top: 153px;
+    padding: 8px 11px;
+    background: #fff;
+    color: #df3635 !important;
+    right: 206px;
+    font-size: 12px;
+    }
+    a.btn-3 {
+    /* right: 0px; */
+    /* top: 45px; */
+    padding: 13px 24px;
+    font-size: 13px;
+    color: #f44336 !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #d8d8d8;
+    border-radius: 3px;
+    font-weight: 600;
+    line-height: 17px;
+    box-shadow: 1px 1px 3px #888888;
+    display: none;
+    }
+    footer.social-icon {
+    width: 100%;
+    float: left;
+    background: #d0d0d0;
+    height: 151px;
+    margin-bottom: 48px;
+    }
+  .icons {
+    margin-top: 20px;
+    margin-right: 27px;
+}
+.icons {
+    float: left;
+    margin-left: 0px;
+}
+    a.btn-4 {
+    color: #e53935 !important;
+    border: 1px solid gainsboro;
+    padding: 13px 126px;
+    float: left;
+    margin-bottom: 30px;
+    }
+   a.nam {
+    color: #666 !important;
+    position: relative;
+    /* left: 14px; */
+    font-family: Poppins, sans-serif;
+}
+   
+    p.rapidly {
+    min-height: 119px;
+    color: #9a9a9a;
+    line-height: 18px;
+    text-align: justify;
+    max-width: 100%;
+    margin-top: 14px;
+   
+    }
+    a.btn-4:hover {
+    color: #e73a34;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15) !important;
+    }
+    .man:hover {
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15) !important;
+    }
+}
+
+
+/*media 768end*/
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    ...;
+}
